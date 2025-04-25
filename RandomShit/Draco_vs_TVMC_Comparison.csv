@@ -1,0 +1,3 @@
+Method,D1 (mm),D2 (mm),log10 MSE,PSNR (dB),Bitrate (Mbps),Decode Time (ms)
+Draco Only,45.8,52.2,-2.68,31.6,0.23,5.8
+TVMC + Draco,38.0,42.6,-3.23,35.1,1.6,6.3
